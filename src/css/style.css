@@ -112,11 +112,11 @@ main {
     max-width: 250px;
 }
 
-.listagem .pokeDC img {
+.listagem .pokeDCselec img {
     width: 25%;
 }
 
-.listagem .pokeDC {
+.listagem .pokeDCselec {
     background-color: #6b727a;
     color: #ffffff;
 
@@ -134,14 +134,14 @@ main {
 }
 
 
-.listagem .pokeDC:hover {
+.listagem .pokeDCselec:hover {
     transform: scale(1.05);
 }
 
-.listagem .pokeDC span {
+.listagem .pokeDCselec span {
     padding-right: 20px;
 }
 
-.listagem .pokeDC.ativo {
+.listagem .pokeDCselec.ativo {
     background-color: #fa6668;
 }
